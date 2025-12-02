@@ -1,5 +1,0 @@
-- [x] MediaMTX stand-alone (networking?)
-- [x] UI
-- [x] Processor start/stop
-- [x] Transcoder start/stop
-- [x] Vision start/stop (+ nieuw gesture model)

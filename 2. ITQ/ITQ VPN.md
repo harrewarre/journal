@@ -1,3 +1,4 @@
+#itq #vpn
 We currently have an organization on [https://github.com/orangeglasses](https://github.com/orangeglasses), which (to my knowledge) is only used to store code. This makes it quite a costly solution (the org is not free) for which we have a much better alternative!
 
 MSP has been working behind the scenes to enable access to our very own internally hosted Gitlab instance. Gitlab is already used by MSP for various tasks so making use of an already existing solution instead of paying (Value4Money) for an additional one makes sense.

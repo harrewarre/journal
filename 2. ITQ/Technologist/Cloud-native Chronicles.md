@@ -38,7 +38,7 @@ You design just enough to get started.
 
 ---
 
-![[Pasted image 20241223102639.png]]
+![[cloud-native-description.png]]
 
 > The “native” part of cloud-native is about using the benefits of cloud computing to develop better architectures and practices–whether or not a system is cloud-born.
 
