@@ -11,14 +11,14 @@
             "id": "03c68b1b51dff48d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "0. Journal/2025-12-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "2025-12-02"
             }
           }
         ]
@@ -183,6 +183,11 @@
   },
   "active": "03c68b1b51dff48d",
   "lastOpenFiles": [
+    "1. Personal/Extra aflossen SVn.md",
+    "1. Personal/Wintersport 2026.md",
+    "1. Personal/Gamers.md",
+    "1. Personal/Success.md",
+    "1. Personal/Scratchpad.md",
     "0. Journal/2025-12-02.md",
     "0. Journal",
     "1. ITQ/PreSales/CAK.md",
@@ -208,13 +213,8 @@
     "2. ITQ/Developer Advocate/Content strategy.md",
     "2. ITQ/Developer Advocate/MSP/Onboarding courses.md",
     "1. Personal/Opportunities.md",
-    "1. Personal/Success.md",
-    "1. Personal/Wintersport 2026.md",
-    "1. Personal/Scratchpad.md",
     "0. Personal/Telefoonnummers.md",
     "Untitled.canvas",
-    "1. Personal/Gamers.md",
-    "1. Personal/Extra aflossen SVn.md",
     "2. ITQ/Archive",
     "1. ITQ/NP",
     "2. ITQ/Technologist/Cloud-Native pathfinder",
