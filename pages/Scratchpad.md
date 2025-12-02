@@ -1,3 +1,4 @@
+-
 - Try more new things 
   Focus on stuff that makes a difference, what actually matters
   Stop doing the wasteful things that produce nothing
