@@ -422,4 +422,4 @@
  :journal/page-title-format "dd-MM-yyyy"
  :feature/enable-flashcards? false
  :graph/settings {:journal? true
- :builtin-pages? false}}
+ :builtin-pages? true}}
