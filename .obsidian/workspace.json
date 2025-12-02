@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Wintersport 2026.md",
+                "file": "0. Personal/Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wintersport 2026"
+              "title": "Scratchpad"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Scratchpad"
             }
+          },
+          {
+            "id": "5cc9c52a56b2329c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,44 +182,44 @@
   },
   "active": "f2a31a7c1f3cf7db",
   "lastOpenFiles": [
-    "Home/Telefoonnummers.md",
-    "Home/Success.md",
-    "Home/Scratchpad.md",
-    "Home/Opportunities.md",
-    "Home/Gamers.md",
-    "Home/Extra aflossen SVn.md",
-    "Home/Wintersport 2026.md",
-    "ITQ/RedHat certifications.md",
-    "ITQ/Technologist/The N Factors of Platform engineering.md",
-    "ITQ/Technologist/Nexus Session - Blogging.md",
-    "ITQ/Technologist/ITQ Cloud Native Cookbook.md",
-    "ITQ/Technologist/Cloud-native Chronicles.md",
-    "ITQ/Technologist/Proposition/Potential roadmap for an organization.md",
-    "ITQ/Technologist/Proposition/Organizational Healthcheck.md",
-    "ITQ/Technologist/Proposition/Deck setup.md",
-    "ITQ/Technologist/Proposition/Datapoints.md",
-    "ITQ/1-on-1.md",
-    "Pasted image 20241223102639.png",
-    "Pasted image 20241023130800.png",
     "Pasted image 20240701211548.png",
-    "ITQ/Speaker Stuff.md",
-    "ITQ/Scratchpad.md",
-    "ITQ/Red Hat Open Innovation Labs.md",
-    "ITQ/PUP Workload domains.md",
-    "ITQ/Project Q9.md",
-    "ITQ/Personal plan.md",
-    "ITQ/ITQ VPN.md",
-    "ITQ/Ideas.md",
-    "ITQ/Cloud Native Concepts.md",
-    "ITQ/Archive",
-    "ITQ/NP",
-    "ITQ/Technologist/Cloud-Native pathfinder",
-    "ITQ/PreSales",
-    "ITQ/Technologist/Proposition",
-    "ITQ/Stuff",
-    "ITQ/Developer Advocate/MSP",
-    "ITQ/Technologist",
-    "ITQ/Developer Advocate",
-    "ITQ"
+    "Pasted image 20241023130800.png",
+    "Pasted image 20241223102639.png",
+    "0. Personal/Wintersport 2026.md",
+    "Untitled.canvas",
+    "0. Personal/Telefoonnummers.md",
+    "0. Personal/Success.md",
+    "0. Personal/Scratchpad.md",
+    "0. Personal/Opportunities.md",
+    "0. Personal/Gamers.md",
+    "0. Personal/Extra aflossen SVn.md",
+    "1. ITQ/RedHat certifications.md",
+    "1. ITQ/Technologist/The N Factors of Platform engineering.md",
+    "1. ITQ/Technologist/Nexus Session - Blogging.md",
+    "1. ITQ/Technologist/ITQ Cloud Native Cookbook.md",
+    "1. ITQ/Technologist/Cloud-native Chronicles.md",
+    "1. ITQ/Technologist/Proposition/Potential roadmap for an organization.md",
+    "1. ITQ/Technologist/Proposition/Organizational Healthcheck.md",
+    "1. ITQ/Technologist/Proposition/Deck setup.md",
+    "1. ITQ/Technologist/Proposition/Datapoints.md",
+    "1. ITQ/1-on-1.md",
+    "1. ITQ/Speaker Stuff.md",
+    "1. ITQ/Scratchpad.md",
+    "1. ITQ/Red Hat Open Innovation Labs.md",
+    "1. ITQ/PUP Workload domains.md",
+    "1. ITQ/Project Q9.md",
+    "1. ITQ/Personal plan.md",
+    "1. ITQ/ITQ VPN.md",
+    "1. ITQ/Ideas.md",
+    "1. ITQ/Archive",
+    "1. ITQ/NP",
+    "1. ITQ/Technologist/Cloud-Native pathfinder",
+    "1. ITQ/PreSales",
+    "1. ITQ/Technologist/Proposition",
+    "1. ITQ/Stuff",
+    "1. ITQ/Developer Advocate/MSP",
+    "1. ITQ/Technologist",
+    "1. ITQ/Developer Advocate",
+    "1. ITQ"
   ]
 }
