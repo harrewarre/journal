@@ -27,12 +27,6 @@ Scatter-Gather process being called Kanban. Usually when team is disjointed and 
 
 “ I distinguish four types. There are clever, hardworking, stupid, and lazy officers. Usually two characteristics are combined. Some are clever and hardworking; their place is the General Staff. The next ones are stupid and lazy; they make up 90 percent of every army and are suited to routine duties. Anyone who is both clever and lazy is qualified for the highest leadership duties, because he possesses the mental clarity and strength of nerve necessary for difficult decisions. One must beware of anyone who is both stupid and hardworking; he must not be entrusted with any responsibility because he will always only cause damage.“ - General and Commander-in-Chief Weimar Republic #quote[https://en.m.wikiquote.org/wiki/Kurt_von_Hammerstein-Equord](https://en.m.wikiquote.org/wiki/Kurt_von_Hammerstein-Equord)
 
-[bla](https://news.ycombinator.com/reply?id=44157392&goto=item%3Fid%3D44156935%2344157392)
-
----
-
-
-
 ---
 
 ## GIT
