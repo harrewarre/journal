@@ -1,6 +1,6 @@
 #fitness
 
-HYROX Utrecht 2025 splits:
+## Utrecht 2025 Splits:
 
 | Stage                 | Time     | Rank |
 | --------------------- | -------- | ---- |
@@ -23,7 +23,7 @@ HYROX Utrecht 2025 splits:
 | Roxzone Time          | 00:05:22 | 257  |
 | Run Total             | 00:55:00 | 411  |
 | Best Run Lap          | 00:06:11 | 417  |
-Final result:
+### Final result:
 
 |              | Result (rank/time) |
 | ------------ | ------------------ |
