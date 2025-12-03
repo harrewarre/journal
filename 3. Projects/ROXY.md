@@ -6,10 +6,8 @@ Some basic inputs:
 - Light, Normal, Hard
 
 Then generates a list of routines to follow, which includes:
-- Cycle count
-- Running distance per cycle
-- Stations
-- Reps per station
+- Running lap count and distance
+- Stations and rep count/distance per station
 
-❓Need to think about the kind of stations because not all equipment is available.
-💡Maybe collaborate with Coach?
+❓Need to think about the kind of stations because not all equipment might be available.
+💡Maybe ask Coach for input?
