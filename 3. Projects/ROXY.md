@@ -11,4 +11,5 @@ Then generates a list of routines to follow, which includes:
 - Stations
 - Reps per station
 
-Need 
+Need to think about the kind of stations because not all equipment is available.
+Maybe collaborate with Coach?
