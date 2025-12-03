@@ -1,6 +1,7 @@
 #fitness
 
 ## Utrecht 2025 Splits:
+https://results.hyrox.com/season-8/?content=detail&fpid=search&pid=search&idp=LR3MS4JI422C82&lang=EN_CAP&event=HD_LR3MS4JI106A&pidp=ranking_nav&search%5Bname%5D=Harrewijnen&search%5Bsex%5D=M&search%5Bage_class%5D=%25&search%5Bnation%5D=%25&search_event=HD_LR3MS4JI106A#
 
 | Stage                 | Time     | Rank |
 | --------------------- | -------- | ---- |
