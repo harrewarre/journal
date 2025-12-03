@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Journal/2025-12-03.md",
+                "file": "3. Projects/ROXY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-03"
+              "title": "ROXY"
             }
           }
         ]
@@ -183,8 +183,10 @@
   },
   "active": "d7f29a3bdbfa48cd",
   "lastOpenFiles": [
-    "1. Personal/HYROX.md",
     "0. Journal/2025-12-03.md",
+    "3. Projects/ROXY.md",
+    "3. Projects",
+    "1. Personal/HYROX.md",
     "1. Personal/Scratchpad.md",
     "1. Personal/Opportunities.md",
     "0. Journal/2025-12-02.md",
@@ -213,7 +215,6 @@
     "2. ITQ/Cloud Native Concepts.md",
     "2. ITQ/1-on-1.md",
     "2. ITQ/Developer Advocate/Developer Advocacy.md",
-    "2. ITQ/Developer Advocate/Content strategy.md",
     "Untitled.canvas",
     "2. ITQ/Archive",
     "1. ITQ/NP",
@@ -221,7 +222,6 @@
     "1. ITQ/PreSales",
     "2. ITQ/Technologist/Proposition",
     "2. ITQ/Stuff",
-    "2. ITQ/Developer Advocate/MSP",
-    "2. ITQ/Technologist"
+    "2. ITQ/Developer Advocate/MSP"
   ]
 }
